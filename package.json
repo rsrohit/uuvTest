@@ -1,0 +1,23 @@
+{
+  "name": "uuvtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsrohit/uuvTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsrohit/uuvTest/issues"
+  },
+  "homepage": "https://github.com/rsrohit/uuvTest#readme",
+  "description": "",
+  "devDependencies": {
+    "@uuv/cypress": "^2.47.0"
+  }
+}
